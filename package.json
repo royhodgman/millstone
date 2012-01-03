@@ -22,7 +22,8 @@
         "srs": "~0.2.11",
         "zipfile": "~0.3.0",
         "sqlite3": "~2.1.1",
-        "mime": ">= 0.0.1"
+        "mime": ">= 0.0.1",
+        "mkdirp": "~0.2.1"
     },
     "devDependencies": {
         "expresso": "0.9.x"
